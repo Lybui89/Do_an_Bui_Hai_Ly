@@ -1,0 +1,44 @@
+[
+    {
+        "ma_nuochoa": 1,
+        "ten_nuochoa": "Good girl gone bad by Kilian",
+        "gia_ban": 4900000,
+        "so_luong": 3,
+        "loai": "Eau de Perfum"
+    },
+    {
+        "ma_nuochoa": 2,
+        "ten_nuochoa": "Roses on Ice by Kilian",
+        "gia_ban": 4800000,
+        "so_luong": 5,
+        "loai": "Eau de Perfum"
+    },
+    {
+        "ma_nuochoa": 3,
+        "ten_nuochoa": "Chanel Chance Eau Tender",
+        "gia_ban": 3000000,
+        "so_luong": 5,
+        "loai": "Eau de perfum"
+    },
+    {
+        "ma_nuochoa": 4,
+        "ten_nuochoa": "Maison Margiela Replica Matcha Mediatation",
+        "gia_ban": 3600000,
+        "so_luong": 1,
+        "loai": "Eau de Toilette"
+    },
+    {
+        "ma_nuochoa": 5,
+        "ten_nuochoa": "Maison Margiela Replica Sailing Day",
+        "gia_ban": 3600000,
+        "so_luong": 4,
+        "loai": "Eau de Toilette"
+    },
+    {
+        "ma_nuochoa": 6,
+        "ten_nuochoa": "Giorgio Armani Acqua Di Gioia",
+        "gia_ban": 3900000,
+        "so_luong": 4,
+        "loai": "Eau de Perfum"
+    }
+]
